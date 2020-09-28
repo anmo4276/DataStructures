@@ -1,4 +1,4 @@
-Data Structures (CSCI 2270
+Data Structures (CSCI 2270)
 -------------------------
 COURSE TOPICS
 --------------
